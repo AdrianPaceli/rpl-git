@@ -18,5 +18,6 @@ public class Kalkulator{
 	
 	public float division(float a, float b){
 		
+	
 	}
 }
